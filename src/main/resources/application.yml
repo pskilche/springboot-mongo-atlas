@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://pskilche:Aatur%402024@kiwi-cluster-1.imyy6ck.mongodb.net/?retryWrites=true&w=majority&appName=kiwi-cluster-1
+      database: Task
